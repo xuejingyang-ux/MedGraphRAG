@@ -1,4 +1,4 @@
-# MedGraphRAG（`app.py` 主线版）
+# MedGraphRAG
 --
 
 ## 核心功能
