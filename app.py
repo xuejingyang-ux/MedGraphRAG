@@ -1093,7 +1093,7 @@ PAGE_TEMPLATE = r"""
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>模型 + 知识图谱问答系统</title>
+    <title>MedGraphRAG 医疗知识图谱问答系统</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
@@ -1159,7 +1159,7 @@ PAGE_TEMPLATE = r"""
     <div id="particles-js" aria-hidden="true"></div>
     <div class="wrap">
         <section class="hero">
-            <h1><i class="fa-solid fa-brain"></i> 模型 + 知识图谱问答系统</h1>
+            <h1><i class="fa-solid fa-brain"></i> MedGraphRAG 医疗知识图谱问答系统</h1>
             <p>系统先进行图谱关系检索，再交给大模型回答，并在结果中给出可追踪证据链。</p>
             <div class="badge-row">
                 <span class="badge" id="badgeConn">Neo4j: 检测中...</span>
