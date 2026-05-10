@@ -32,8 +32,8 @@ src/kg_builder.py
 建议 Python 3.10。
 
 ```bash
-git clone https://github.com/xuejingyang-ux/GraphRAG.git
-cd GraphRAG
+git clone https://github.com/xuejingyang-ux/MedGraphRAG.git
+cd MedGraphRAG
 
 python -m venv .venv
 # Windows
