@@ -1,4 +1,6 @@
-# GraphRAG
+# MedGraphRAG（`app.py` 主线版）
+
+本仓库当前版本已按 `app.py` 主应用进行清理：仅保留与 Flask 问答系统直接相关的 Python 脚本，删除了旧版 Streamlit/NER/微调等无关 Python 文件。
 
 ---
 
@@ -12,7 +14,7 @@
 
 ---
 
-## 脚本文件
+## 当前保留的 Python 文件
 
 ```text
 app.py
@@ -136,3 +138,7 @@ curl -X POST http://127.0.0.1:5001/api/ask ^
 ```
 
 ---
+
+## 说明
+
+本项目仅用于学习和研究，不可替代专业医疗建议。
